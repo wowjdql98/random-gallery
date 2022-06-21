@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+body{
+    font-family:'Courier New', Courier, monospace;
+    background-image: 
+    url(image/Rectangle\ 1.png),
+    url(image/img01.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    height: 100vh;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.date{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section{
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+}
+
+section h1{
+    font-size: 48px;
+}
