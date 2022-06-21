@@ -8,8 +8,9 @@ https://wowjdql98.github.io/random-gallery/
 - 시간도 표시됨
 
 ## 사용기술
-자바스크립트 , math객체, date객체
-css flex layout
-타이머함수 (setInterval) -자동재생
+- 자바스크립트 , math객체, date객체
+- css flex layout
+- 타이머함수 (setInterval) -자동재생
+
 ## 플러그인/ 자바스크립트
--제이쿼리
+- 제이쿼리
